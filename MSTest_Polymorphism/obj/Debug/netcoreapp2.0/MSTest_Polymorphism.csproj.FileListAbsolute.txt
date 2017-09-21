@@ -1,0 +1,15 @@
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_Polymorphism\obj\Debug\netcoreapp2.0\MSTest_Polymorphism.csproj.CoreCompileInputs.cache
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_Polymorphism\obj\Debug\netcoreapp2.0\MSTest_Polymorphism.AssemblyInfoInputs.cache
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_Polymorphism\obj\Debug\netcoreapp2.0\MSTest_Polymorphism.AssemblyInfo.cs
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_Polymorphism\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_Polymorphism\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_Polymorphism\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_Polymorphism\bin\Debug\netcoreapp2.0\MSTest_Polymorphism.deps.json
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_Polymorphism\bin\Debug\netcoreapp2.0\MSTest_Polymorphism.runtimeconfig.json
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_Polymorphism\bin\Debug\netcoreapp2.0\MSTest_Polymorphism.runtimeconfig.dev.json
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_Polymorphism\bin\Debug\netcoreapp2.0\MSTest_Polymorphism.dll
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_Polymorphism\bin\Debug\netcoreapp2.0\MSTest_Polymorphism.pdb
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_Polymorphism\bin\Debug\netcoreapp2.0\Polymorphism_NETCore.dll
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_Polymorphism\bin\Debug\netcoreapp2.0\Polymorphism_NETCore.pdb
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_Polymorphism\obj\Debug\netcoreapp2.0\MSTest_Polymorphism.dll
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_Polymorphism\obj\Debug\netcoreapp2.0\MSTest_Polymorphism.pdb

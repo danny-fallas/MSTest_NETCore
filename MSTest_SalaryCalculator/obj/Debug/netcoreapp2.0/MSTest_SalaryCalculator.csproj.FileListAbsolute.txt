@@ -1,0 +1,15 @@
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_SalaryCalculator\obj\Debug\netcoreapp2.0\MSTest_SalaryCalculator.csproj.CoreCompileInputs.cache
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_SalaryCalculator\obj\Debug\netcoreapp2.0\MSTest_SalaryCalculator.AssemblyInfoInputs.cache
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_SalaryCalculator\obj\Debug\netcoreapp2.0\MSTest_SalaryCalculator.AssemblyInfo.cs
+b:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_SalaryCalculator\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+b:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_SalaryCalculator\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+b:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_SalaryCalculator\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+b:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_SalaryCalculator\bin\Debug\netcoreapp2.0\MSTest_SalaryCalculator.deps.json
+b:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_SalaryCalculator\bin\Debug\netcoreapp2.0\MSTest_SalaryCalculator.runtimeconfig.json
+b:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_SalaryCalculator\bin\Debug\netcoreapp2.0\MSTest_SalaryCalculator.runtimeconfig.dev.json
+b:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_SalaryCalculator\bin\Debug\netcoreapp2.0\MSTest_SalaryCalculator.dll
+b:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_SalaryCalculator\bin\Debug\netcoreapp2.0\MSTest_SalaryCalculator.pdb
+b:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_SalaryCalculator\bin\Debug\netcoreapp2.0\lib_Calculator.dll
+b:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_SalaryCalculator\bin\Debug\netcoreapp2.0\lib_Calculator.pdb
+b:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_SalaryCalculator\obj\Debug\netcoreapp2.0\MSTest_SalaryCalculator.dll
+b:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\MSTest_SalaryCalculator\obj\Debug\netcoreapp2.0\MSTest_SalaryCalculator.pdb

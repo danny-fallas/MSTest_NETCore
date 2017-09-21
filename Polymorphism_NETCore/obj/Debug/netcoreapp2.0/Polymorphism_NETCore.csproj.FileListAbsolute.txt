@@ -1,0 +1,10 @@
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\Polymorphism_NETCore\obj\Debug\netcoreapp2.0\Polymorphism_NETCore.csproj.CoreCompileInputs.cache
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\Polymorphism_NETCore\obj\Debug\netcoreapp2.0\Polymorphism_NETCore.AssemblyInfoInputs.cache
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\Polymorphism_NETCore\obj\Debug\netcoreapp2.0\Polymorphism_NETCore.AssemblyInfo.cs
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\Polymorphism_NETCore\bin\Debug\netcoreapp2.0\Polymorphism_NETCore.deps.json
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\Polymorphism_NETCore\bin\Debug\netcoreapp2.0\Polymorphism_NETCore.runtimeconfig.json
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\Polymorphism_NETCore\bin\Debug\netcoreapp2.0\Polymorphism_NETCore.runtimeconfig.dev.json
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\Polymorphism_NETCore\bin\Debug\netcoreapp2.0\Polymorphism_NETCore.dll
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\Polymorphism_NETCore\bin\Debug\netcoreapp2.0\Polymorphism_NETCore.pdb
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\Polymorphism_NETCore\obj\Debug\netcoreapp2.0\Polymorphism_NETCore.dll
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\Polymorphism_NETCore\obj\Debug\netcoreapp2.0\Polymorphism_NETCore.pdb

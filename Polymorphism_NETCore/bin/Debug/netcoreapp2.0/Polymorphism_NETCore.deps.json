@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "0c5f9e528722df5a5f4ec4b8132e86f5241057d2"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Polymorphism_NETCore/1.0.0": {
+        "dependencies": {
+          "moq.netcore": "4.4.0-beta8"
+        },
+        "runtime": {
+          "Polymorphism_NETCore.dll": {}
+        }
+      },
+      "moq.netcore/4.4.0-beta8": {
+        "runtime": {
+          "lib/net40/Moq.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Polymorphism_NETCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "moq.netcore/4.4.0-beta8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XbvVw6iySEodAQ1wwBitOMN7stFUYu+tpCluZKM6R9hR4YvS93qo8WXBC91cNwZr+ONDgdtxw6YG+OKOwwIThQ==",
+      "path": "moq.netcore/4.4.0-beta8",
+      "hashPath": "moq.netcore.4.4.0-beta8.nupkg.sha512"
+    }
+  }
+}

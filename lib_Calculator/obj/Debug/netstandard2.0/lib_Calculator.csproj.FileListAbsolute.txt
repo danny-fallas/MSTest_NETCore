@@ -1,0 +1,8 @@
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\lib_Calculator\bin\Debug\netstandard2.0\lib_Calculator.deps.json
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\lib_Calculator\bin\Debug\netstandard2.0\lib_Calculator.dll
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\lib_Calculator\bin\Debug\netstandard2.0\lib_Calculator.pdb
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\lib_Calculator\obj\Debug\netstandard2.0\lib_Calculator.csproj.CoreCompileInputs.cache
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\lib_Calculator\obj\Debug\netstandard2.0\lib_Calculator.AssemblyInfoInputs.cache
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\lib_Calculator\obj\Debug\netstandard2.0\lib_Calculator.AssemblyInfo.cs
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\lib_Calculator\obj\Debug\netstandard2.0\lib_Calculator.dll
+B:\dann_\Development\STATESIDE\Action Plan\Action-Plan-TDD-NETCore\lib_Calculator\obj\Debug\netstandard2.0\lib_Calculator.pdb
